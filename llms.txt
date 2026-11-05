@@ -1,0 +1,26 @@
+# YU SLEEP
+
+> YU SLEEP is a Sleep Support Supplement. YU SLEEP is a nightly sleep-support formula created for people who are tired of lying awake, cycling through restless nights, or waking up feeling like they never really rested. Rather than a heavy sedative, it is positioned as a gentle, habit-friendly addition to your evening routine that helps your body settle into the deep, restorative sleep it is designed to get. The product is sold in multi-bottle bundles through its official order page and is aimed at adults who want a simpler path to calmer nights and more energized mornings.
+
+## Pages
+- [Home — overview, pricing and FAQ](https://yusleep-org.onrender.com/)
+- [What YU SLEEP is](https://yusleep-org.onrender.com/what-is-product.html)
+- [How YU SLEEP works](https://yusleep-org.onrender.com/how-it-works.html)
+- [YU SLEEP ingredients, explained individually](https://yusleep-org.onrender.com/ingredients.html)
+- [YU SLEEP benefits](https://yusleep-org.onrender.com/benefits.html)
+- [YU SLEEP customer reviews](https://yusleep-org.onrender.com/reviews.html)
+- [YU SLEEP frequently asked questions](https://yusleep-org.onrender.com/faq.html)
+
+## Blog
+- [What To Know Before Trying YU SLEEP](https://yusleep-org.onrender.com/blog/what-to-know-before-trying.html): A clear, honest look at YU SLEEP — what it contains, how it is used, what it costs, and the guarantee behind it — before you decide to order.
+- [How To Read A Supplement Label](https://yusleep-org.onrender.com/blog/how-to-read-a-supplement-label.html): Serving size, proprietary blends and other ingredients explained — using YU SLEEP's own label as a real example of what to look for.
+- [YU SLEEP: An Honest Review](https://yusleep-org.onrender.com/blog/yu-sleep-honest-review.html): An honest look at YU SLEEP — what it claims to do, what it actually contains, what it costs, and who it is realistically a good fit for.
+- [Magnesium vs L-Theanine: What Each Does In YU SLEEP](https://yusleep-org.onrender.com/blog/magnesium-vs-l-theanine.html): Magnesium and L-Theanine are both in YU SLEEP but play different roles — here is what each one actually does in the formula.
+- [Daily Habits That Complement YU SLEEP](https://yusleep-org.onrender.com/blog/daily-habits-that-complement-it.html): Simple daily habits — hydration, timing, consistency — that pair well with YU SLEEP as part of a sleep support routine.
+- [YU SLEEP FAQ: Dosage, Timing, Who Should Skip It](https://yusleep-org.onrender.com/blog/yu-sleep-faq.html): Common questions about YU SLEEP — dosage, timing, the guarantee, and who should skip it — answered directly.
+- [Terms of Use](https://yusleep-org.onrender.com/terms.html)
+- [Privacy Policy](https://yusleep-org.onrender.com/privacy-policy.html)
+- [Disclaimer](https://yusleep-org.onrender.com/disclaimer.html)
+- [Refund Policy](https://yusleep-org.onrender.com/refund-policy.html)
+- [About Us](https://yusleep-org.onrender.com/about.html)
+- [Contact Us](https://yusleep-org.onrender.com/contact.html)
